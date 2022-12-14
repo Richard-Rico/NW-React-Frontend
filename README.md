@@ -19,7 +19,7 @@ This repository contains a react application that connects with Rest Api-Backend
 
 ## How to see this project? 🔎
 
-This project you can opened here [NW React Frontend](https://richard-rico.github.io/LunaMama-website-sketch-in-HTML/Index.html)
+This project you can opened here [NW React Frontend](https://richard-rico.github.io/NW-React-Frontend/build)
 
 # Getting Started with Create React App ⚛️
 
