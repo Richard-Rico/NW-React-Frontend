@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NW-React-Frontend/build/static/css/main.14a5704a.css",
+    "main.js": "/NW-React-Frontend/build/static/js/main.99e72263.js",
+    "static/js/787.a9a1c73e.chunk.js": "/NW-React-Frontend/build/static/js/787.a9a1c73e.chunk.js",
+    "index.html": "/NW-React-Frontend/build/index.html",
+    "main.14a5704a.css.map": "/NW-React-Frontend/build/static/css/main.14a5704a.css.map",
+    "main.99e72263.js.map": "/NW-React-Frontend/build/static/js/main.99e72263.js.map",
+    "787.a9a1c73e.chunk.js.map": "/NW-React-Frontend/build/static/js/787.a9a1c73e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14a5704a.css",
+    "static/js/main.99e72263.js"
+  ]
+}
