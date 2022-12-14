@@ -1,0 +1,180 @@
+.App {
+  text-align: center;
+  }
+
+#userTable {
+  margin: auto;
+}
+
+.neg {
+  color: red;
+  background: lightgrey;
+  font-size: 28px;
+  font-weight: bold;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-top: 10%;
+  width: 70%;
+  margin-left: 15%;
+}
+
+.pos {
+  color: green;
+  background: lightgrey;
+  font-size: 36px;
+  font-weight: normal;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-top: 10%;
+  width: 70%;
+  margin-left: 15%;
+}
+
+.customerDetails {
+  background-color: gainsboro;
+  border-style: none;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 50px;
+  border-radius: 30px;
+  padding-left: 10%;
+  padding-right: 10%;
+
+}
+
+.productDetails {
+  background-color: gainsboro;
+  border-style: none;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 50px;
+  border-radius: 30px;
+  padding-left: 10%;
+  padding-right: 10%;
+
+}
+
+.userDetails {
+  background-color:gainsboro;
+  border-style: none;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 50px;
+  border-radius: 30px;
+  padding-left: 10%;
+  padding-right: 10%;
+
+}
+
+.posts{
+  margin: auto;
+  background-color: beige;
+  max-width: 70%;
+  border-radius: 20px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: beige;
+  margin-bottom: 2%;
+}
+
+.nappi {
+  border-radius: 10px;
+  border-color: rgb(135, 222, 154);
+  margin-left: 20px;
+  font-size: 22px;
+  background-color:rgb(135, 222, 154);
+  color: white;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.edit {
+  background-color:chocolate;
+  border-style: solid;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 50px;
+  border-radius: 30px;
+  padding-left: 10%;
+  padding-right: 10%;
+
+}
+
+.miinus {
+  border-radius: 10px;
+  background-color: tomato;
+  font-family: monospace;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px; 
+  margin-left: 20px; 
+  margin-right: 20px;
+}
+
+.button {
+  border-radius: 10px;
+  border-color: rgb(135, 222, 154);
+  background-color: rgb(135, 222, 154);
+  font-family: monospace;
+  border-style: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;  
+  margin-left: 20px;
+}
+
+.logo{
+  align-items: center;
+  flex-grow: 2;
+  display: flex;
+  justify-content: center;
+}
+.logo span{
+  display: block;
+  font-size: 58px;
+  font-weight: bolder;
+  margin-top: -6px;
+}
+.logo h3{
+  display: block;
+  flex-basis: 40px;
+  margin-left: 10px;
+  font-weight: lighter;
+  text-transform: uppercase;
+
+}
+
+.div{
+ text-align: center;
+}
